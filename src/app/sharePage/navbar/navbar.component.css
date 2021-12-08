@@ -1,0 +1,10 @@
+.navbar-nav 
+{
+    color: var(--secondary-color);
+   
+}
+.navbar-nav .active-link
+{
+    color: var(--primary-color);
+    text-decoration: underline;
+}
